@@ -1,4 +1,8 @@
 ﻿2021-06-10
 ==========
-    1. Prepare for deployment.
++   1. Prepare for deployment.
+    
+2021-06-11
+==========
+x   1. Remove LICENSE
     
