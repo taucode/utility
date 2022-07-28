@@ -3,6 +3,7 @@ using System.IO;
 
 namespace TauCode.Utility
 {
+// todo move to taucode.io?
     public static class FileUtility
     {
         public static void PurgeDirectory(string directoryPath)
