@@ -6,3 +6,7 @@
 ==========
 x   1. Remove LICENSE
     
+
+2023-02-01
+==========
+    1. Deal with NotImplementedException

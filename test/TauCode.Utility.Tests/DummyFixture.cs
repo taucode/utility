@@ -1,14 +1,13 @@
 ﻿using NUnit.Framework;
 
-namespace TauCode.Utility.Tests
+namespace TauCode.Utility.Tests;
+
+[TestFixture]
+public class DummyFixture
 {
-    [TestFixture]
-    public class DummyFixture
+    [Test]
+    public void DummyTest()
     {
-        [Test]
-        public void DummyTest()
-        {
-            Assert.Pass("Added for CI/CD.");
-        }
+        Assert.Pass("Added for CI/CD.");
     }
 }
